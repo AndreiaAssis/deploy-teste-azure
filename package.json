@@ -1,0 +1,22 @@
+{
+  "name": "deploy-teste-azure",
+  "version": "1.0.0",
+  "description": "Projeto exemplo  deploy automático de uma PAI em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiaAssis/deploy-teste-azure.git"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiaAssis/deploy-teste-azure/issues"
+  },
+  "homepage": "https://github.com/AndreiaAssis/deploy-teste-azure#readme",
+  "type": "module"
+}
